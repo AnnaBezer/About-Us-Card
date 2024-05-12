@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  font-family: "Roboto", sans-serif;
+}
+
+:root {
+  --white: #FFFFFF;
+  --black: #050E26;
+  --vanDyke: #483D3F;
+  --borderGray: #C3C7CF;
+  --backgroundGray: #F3F5FB;
+  --textGray: #878B99;
+  --green: #90AB90;
+}
+
+.section-container {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 24px;
+}
+
+.section-title {
+  font-size: 32px;   
+  font-weight: 700;
+  line-height: 48px;
+}

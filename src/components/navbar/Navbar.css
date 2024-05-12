@@ -1,0 +1,28 @@
+.navbar-placeholder {
+  height: 81px;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  background-color: var(--vanDyke);
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar h3 {
+  color: var(--white);
+  font-size: 28px;
+}
+
+.navbar img {
+  cursor: pointer;
+}

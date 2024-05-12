@@ -1,0 +1,10 @@
+.about-us-section-title {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.about-us-cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 48px;
+}
